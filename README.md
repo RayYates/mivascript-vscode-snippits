@@ -1,1 +1,1 @@
-# mivascript-vscode-snippits
+# snippits
